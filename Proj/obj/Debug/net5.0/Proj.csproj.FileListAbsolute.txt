@@ -1,0 +1,16 @@
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\Proj.exe
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\Proj.deps.json
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\Proj.runtimeconfig.json
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\Proj.runtimeconfig.dev.json
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\Proj.dll
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\ref\Proj.dll
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\bin\Debug\net5.0\Proj.pdb
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.csproj.AssemblyReference.cache
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.AssemblyInfoInputs.cache
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.AssemblyInfo.cs
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.csproj.CoreCompileInputs.cache
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.dll
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\ref\Proj.dll
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.pdb
+C:\Users\sofis\Pictures\Sofia\ETE\LingPr\OO\2021_ETE_LingPr_cSharp\Proj\obj\Debug\net5.0\Proj.genruntimeconfig.cache
